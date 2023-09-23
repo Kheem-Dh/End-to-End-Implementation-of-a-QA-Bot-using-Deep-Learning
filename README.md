@@ -13,7 +13,9 @@ The goal of this project is to create a QA bot that can answer questions based o
 To get started with this project, follow these steps:
 
 1. Clone this repository:
+   
  `git [clone https://github.com/your-username/your-repository.git](https://github.com/Kheem-Dh/End-to-End-Implementation-of-a-QA-Bot-using-Deep-Learning.git)https://github.com/Kheem-Dh/End-to-End-Implementation-of-a-QA-Bot-using-Deep-Learning.git`
+
 `cd End-to-End-Implementation-of-a-QA-Bot-using-Deep-Learning`
-2. Set up your environment by following the instructions in the article linked above.
-3. Explore the code and resources provided in the repository.
+3. Set up your environment by following the instructions in the article linked above.
+4. Explore the code and resources provided in the repository.
